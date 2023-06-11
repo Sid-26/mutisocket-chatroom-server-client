@@ -1,6 +1,6 @@
 Web Chat Server (Instructions)
 
-###### *This was a university project, copying code not allowed*
+###### *This was a university project, copying code line by line is highly not recommended*
 
 ## Authors
 * #### [Siddhant Das](https://github.com/Sid-26)
